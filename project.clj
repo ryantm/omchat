@@ -1,6 +1,6 @@
 (defproject omchat "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :description "software for communication"
+  :url "https://github.com/ryantm/omchat"
+  :license {:name "Public Domain Dedication"
+            :url "http://creativecommons.org/publicdomain/zero/1.0/"}
   :dependencies [[org.clojure/clojure "1.5.1"]])
