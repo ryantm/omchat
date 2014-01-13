@@ -8,7 +8,6 @@ FIXME
 
 ## License
 
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+http://creativecommons.org/publicdomain/zero/1.0/
